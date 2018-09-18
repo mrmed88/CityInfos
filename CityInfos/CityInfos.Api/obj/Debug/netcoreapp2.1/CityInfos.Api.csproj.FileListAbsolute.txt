@@ -1,0 +1,14 @@
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\obj\Debug\netcoreapp2.1\CityInfos.Api.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\obj\Debug\netcoreapp2.1\CityInfos.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\obj\Debug\netcoreapp2.1\CityInfos.Api.RazorAssemblyInfo.cache
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\obj\Debug\netcoreapp2.1\CityInfos.Api.RazorAssemblyInfo.cs
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\obj\Debug\netcoreapp2.1\CityInfos.Api.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\obj\Debug\netcoreapp2.1\CityInfos.Api.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\bin\Debug\netcoreapp2.1\CityInfos.Api.deps.json
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\bin\Debug\netcoreapp2.1\CityInfos.Api.runtimeconfig.json
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\bin\Debug\netcoreapp2.1\CityInfos.Api.runtimeconfig.dev.json
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\bin\Debug\netcoreapp2.1\CityInfos.Api.dll
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\bin\Debug\netcoreapp2.1\CityInfos.Api.pdb
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\obj\Debug\netcoreapp2.1\CityInfos.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\obj\Debug\netcoreapp2.1\CityInfos.Api.dll
+C:\Users\Mohamed\Desktop\ASP.NET project\CityInfos\CityInfos.Api\obj\Debug\netcoreapp2.1\CityInfos.Api.pdb

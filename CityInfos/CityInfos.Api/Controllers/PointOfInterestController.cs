@@ -36,8 +36,8 @@ namespace CityInfos.Api.Controllers
                 return NotFound();
 
 
-                var poi = city.PointsOfInterest.FirstOrDefault(p => p.Id == PoiId);
-                if(poi == null)
+            var poi = city.PointsOfInterest.FirstOrDefault(p => p.Id == PoiId);
+            if (poi == null)
             {
                 return NotFound();
             }
@@ -46,10 +46,10 @@ namespace CityInfos.Api.Controllers
         }
 
         [HttpPost("{cityId}/POI")]
-        public IActionResult  AddPOI(int cityId,
+        public IActionResult AddPOI(int cityId,
             [FromBody] PointOfInterestCreationDto poi)
         {
-          if(poi == null)
+            if (poi == null)
             {
                 return BadRequest();
             }
@@ -69,7 +69,7 @@ namespace CityInfos.Api.Controllers
 
             city.PointsOfInterest.Add(finalPOI);
 
-            return CreatedAtRoute("GetPOI", new { cityId = cityId, PoiId = finalPOI.Id}, finalPOI);
+            return CreatedAtRoute("GetPOI", new { cityId = cityId, PoiId = finalPOI.Id }, finalPOI);
         }
     }
 

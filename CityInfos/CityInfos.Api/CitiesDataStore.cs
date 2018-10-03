@@ -27,7 +27,7 @@ namespace CityInfos.Api
             {
                 Id = 1,
                 Name = "Tunis",
-                Description = "Working",
+                Description = "Work",
                 PointsOfInterest = new List<PointOfInterestDto>()
                 {
                     new PointOfInterestDto()
